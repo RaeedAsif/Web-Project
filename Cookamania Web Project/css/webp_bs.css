@@ -1,0 +1,455 @@
+body{
+	background-color: #F7F7F7;
+
+}
+
+#white{
+	background-color: white;
+}
+#pink{
+  background-color: #FFE8E8;
+}
+#nav-pink{
+  background-color: #FFA5A5 ;
+}
+#red{
+  background-color: #ED1C24;
+}
+
+#brown{
+  color:#C17841;
+}
+#ow{
+  background-color: #fffff4;
+  font-family: 'Raleway';
+}
+
+#bbq{
+  background-color: black;
+  font-family: 'Satisfy';
+}
+
+#pak{
+  font-family: 'Josefin Sans';
+}
+
+.ttext{
+  font-family: 'Tangerine', serif;
+        font-size: 80px;
+        color: red;
+}
+
+.btext{
+  font-family: 'Orbitron';
+        font-size: 80px;
+        color: brown;
+}
+
+.ptext{
+  font-family: 'Pacifico';
+        font-size: 80px;
+        color: green;
+}
+.mar-left{
+  margin-left: 100px;
+}
+
+#menu li :hover {
+  background-color: #FF7F27;
+  color: white;
+  border-radius: 2px;
+}
+
+#menuT li :hover {
+  background-color: white;
+  color: red;
+  border-radius: 2px;
+}
+
+#menuD li :hover {
+  background-color: white;
+  color: rgb(256,165,165);
+  border-radius: 2px;
+}
+
+#left{
+   float: left;
+}
+
+#img-hw{
+  width=70px;height=70px;
+}
+
+#div-width{
+  width: 50%;
+}
+.feed {
+  margin-top: 120px;  
+  color: #BCA9A9;
+  align-items: flex-start;
+}
+
+.story {  
+  background-color: white;
+  border-radius: 15px;
+}
+.member {  
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.memberB {  
+  background-color: #170000;
+  color: #fffff4;
+}
+.f-left{
+  clear: left;
+  border: 1px solid;
+
+}
+.clear-left{
+  clear: left;
+}
+
+.clear-right{
+  clear: right;
+
+}
+
+#ptop{
+  padding-top:10px;
+  margin-top: 20px;
+}
+
+.mi-hover:hover {
+    box-shadow: 0 0px 10px 0 orange;
+    transform: scale(2.0); 
+}
+
+.mtop{ margin-top: 30px }
+
+.orange{ color:orange; }
+
+@media only screen and (max-width: 720px) {
+ .hidden{ display: none; }
+}
+
+.dpink :hover {
+    box-shadow: 0px 0px 20px 5px pink; 
+}
+
+div.pink :hover {
+    box-shadow: 0px 0px 20px 5px pink; 
+}
+
+div.red :hover {
+    box-shadow: 0px 0px 20px 0px red; 
+}
+
+div.green :hover {
+    box-shadow: 0px 0px 20px 0px green; 
+}
+
+div.brown :hover {
+    box-shadow: 0px 0px 20px 0px brown; 
+}
+div.italy :hover {
+    box-shadow: -5px 0px 20px 0px red,5px 0px 20px 0px green; 
+
+}
+
+div.ip :hover {
+    box-shadow: -5px 0px 20px 0px orange,5px 0px 20px 0px green; 
+
+}
+
+.fix{
+  padding-top: 30px; margin-left: 120px;width: 100%;
+}
+
+@media only screen and (max-width: 720px) {
+ .fixm{ padding-top: 0px; margin-left: 0px; }
+}
+
+.reds {
+    box-shadow: 0px 0px 20px 0px red; 
+}
+
+  div.x {
+    border: 1px solid #ccc;
+}
+  div.x :hover {
+    box-shadow: 0px 0px 20px 0px orange; 
+}
+
+.x:hover {
+    transform: scale(1.02); 
+}
+
+.bbq-center{
+
+  padding: 20px;
+}
+
+#d{
+  font-family:Gaegu;
+  color: maroon;
+}
+
+#d1{
+  font-family: Indie Flower;
+  color: #CE45FF;
+}
+
+.dtext{
+  font-family: Dancing Script;
+        font-size: 100px;
+        color: purple;
+}
+
+.rl{
+  font-family: Prompt;
+}
+.rh{
+  font-family:Rokkitt ;
+}
+div#back{
+  background-image: url("https://tmff.net/wp-content/uploads/2015/04/light-grey-background-pattern-i1.jpg");
+}
+div.rec{
+  background-color: white;
+  box-shadow: 0 4px 8px 0 black;
+  padding: 10px;
+}
+
+div#pic{
+  height: 100%;  background-position: center;;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  height = 500px;
+  background-image: url("http://www.theprairiehomestead.com/wp-content/uploads/2015/08/blueberry-cheesecake-ice-cream-recipe.jpg");
+}
+
+.text-block {
+    position: absolute;
+    top: 25%;
+    left:25%;
+    
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.text-block1 {
+    position: absolute;
+    top: 70%;
+    left:20%;
+    
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#button4 {
+background-color: #e7e7e7; 
+color: black;
+padding: 16px 16px;
+}
+
+#h1{
+  font-size:50px;
+}
+
+#h2{
+  font-size:80px;
+}
+
+.blog-text{
+  height: auto;
+  border-radius: 20px;
+  border: 1px solid;
+  border-color: orange;
+}
+
+footer {
+  background: #D3D3D3;
+  color:black;
+  text-align:center;
+}
+
+.in{
+  margin: 20px;
+}
+div#i1{
+  color:white;
+  background-image: url("https://indianhealthyrecipes.com/wp-content/uploads/2016/07/veg-fried-rice-recipes.jpg");
+}
+div#i2{
+  color:white;
+  background-image: url("https://images.media-allrecipes.com/userphotos/560x315/410787.jpg");
+}
+div#i3{
+  color:white;
+  background-image: url("https://japancentre-images.freetls.fastly.net/recipes/pics/1526/main/miso-ramen.jpg?1474021659");
+}
+div#i4{
+  color:white;
+  background-image: url("https://assets.bonappetit.com/photos/57ae038653e63daf11a4e122/16:9/w_1000,c_limit/shoyu-ramen.jpg");
+}
+div#i5{
+  color:white;
+  background-image: url("https://cdn5.norecipes.com/wp-content/uploads/2015/01/23053043/recipekung-pao-chicken.1024x1024-4.jpg");
+}
+div#i6{
+  color:white;
+  background-image: url("https://www.stupideasypaleo.com/wp-content/uploads/2016/10/DSC_0950-2.jpg");
+}
+
+div.facts {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9qZyKoobnqL5W0eWf8MkNwgvgmQrFCiOFUVVAOEPB5de6iRMkA");
+}
+
+div.rel {
+    position:relative;
+    left:-50px;
+    top:30px;
+    border-width: 5px;
+    background-color: white;
+    border-color: grey;
+    box-shadow: 0 4px 8px 0 lightgrey;
+    padding: 10px;
+}
+div.rel:hover {
+  transform: scale(1.1); 
+}
+div.rel1:hover {
+  transform: scale(1.1); 
+}
+div.rel1 {
+    position:relative;
+    left:50px;
+    top:30px;
+    border-width: 5px;
+    background-color: white;
+    border-color: grey;
+    box-shadow: 0 4px 8px 0 lightgrey;
+    padding: 10px;
+    z-index: 1;
+}
+div.main {
+    background-image: url("http://www.lanarestaurant.com/wp-content/uploads/2017/09/italian-cuisine-collage-1024x234.jpg");
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button.log {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.cancelbtn {
+    
+}
+
+.container {
+    padding: 16px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+}
+
+/* The containerR */
+.containerR {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.containerR input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.containerR:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.containerR input:checked ~ .checkmark {
+    background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the checkmark when checked */
+.containerR input:checked ~ .checkmark:after {
+    display: block;
+}
+
+/* Style the checkmark/indicator */
+.containerR .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
